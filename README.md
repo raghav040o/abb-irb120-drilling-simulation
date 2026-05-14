@@ -2,8 +2,6 @@
 
 An industrial robot drilling simulation built in ABB RobotStudio, programming an IRB 120 robot arm to perform automated hole drilling across a workpiece with defined waypoints, tool paths, and drilling sequences.
 
-![RobotStudio Simulation](images/robotstudio_overview.jpg)
-
 ## Overview
 
 This project simulates an automated drilling operation using an **ABB IRB 120** industrial robot in **RobotStudio**. The robot follows a programmed path of waypoints across a workpiece mounted on a worktable, performing precision drilling at each target location.
